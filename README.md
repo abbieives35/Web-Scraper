@@ -14,9 +14,3 @@ The script utilizes **Selenium** for dynamic page interaction and **Tkinter** fo
 - **Error Handling**: Handles missing data and site changes gracefully.  
 - **Multi-Site Support**: Fetches data from Grainger, Western Safety, and Magid.  
 
-## 📂 Installation & Setup
-
-### **1️⃣ Install Required Libraries**
-Make sure you have Python installed, then install dependencies:
-```bash
-pip install selenium beautifulsoup4
