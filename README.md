@@ -1,7 +1,7 @@
 # Multi-Site Price Scraper
 
 
-This Python script takes a user inputted part number and extract pricing for that part number from the listed websites.
+This Python script takes a user inputted part number and extracts pricing for that part number from the listed websites.
 
 
 The script utilizes **Selenium** for dynamic page interaction and **Tkinter** for a simple GUI.
